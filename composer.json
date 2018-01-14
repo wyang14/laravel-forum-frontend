@@ -1,12 +1,12 @@
 {
-    "name": "riari/laravel-forum-frontend",
+    "name": "wyang14/laravel-forum-frontend",
     "description": "A frontend for riari/laravel-forum providing views written with Bootstrap 3",
     "keywords": ["laravel", "laravel-4", "laravel-5", "forum", "discuss", "frontend"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Riari",
-            "email": "hello@ricko.me"
+            "name": "Weili Yang",
+            "email": "william.1022@gmail.com"
         }
     ],
     "require": {
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Riari\\Forum\\Frontend\\": "src"
+            "Wyang14\\Forum\\Frontend\\": "src"
         }
     }
 }
